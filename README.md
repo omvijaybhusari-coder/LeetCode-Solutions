@@ -40,12 +40,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
