@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
