@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
