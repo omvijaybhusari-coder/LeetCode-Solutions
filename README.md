@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0046-permutations) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
