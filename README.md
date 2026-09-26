@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
