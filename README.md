@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
