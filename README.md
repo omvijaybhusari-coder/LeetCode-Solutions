@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
