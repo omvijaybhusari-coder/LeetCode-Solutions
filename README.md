@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1672-richest-customer-wealth](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
