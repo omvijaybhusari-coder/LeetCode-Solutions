@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
