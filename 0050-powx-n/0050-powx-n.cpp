@@ -1,24 +1,31 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long N = n;
+        if(x == 0) return 0.0;
+        if(n == 0) return 1.0;
+        if(x == 1) return 1.0;
+        if(x == -1 && n % 2 == 0) return 1.0;
+        if(x == -1 && n % 2 != 0) return -1.0;
 
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+        long long binary = n;
+        long double base = x;
+
+        if(binary < 0) {
+            base = 1.0L / base;
+            binary = -binary;
         }
 
-        double ans = 1.0;
+        long double ans = 1.0L;
 
-        while (N > 0) {
-            if (N % 2 == 1) {
-                ans = ans * x;
+        while(binary > 0) {
+            if(binary % 2 == 1) {
+                ans *= base;
             }
 
-            x = x * x;
-            N = N / 2;
+            base *= base;
+            binary /= 2;
         }
 
-        return ans;
+        return (double)ans;
     }
 };
