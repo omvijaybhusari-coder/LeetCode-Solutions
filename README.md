@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
