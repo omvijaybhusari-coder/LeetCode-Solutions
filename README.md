@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/omvijaybhusari-coder/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
